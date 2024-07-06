@@ -11,3 +11,4 @@
 - 2 hidden songs will play after playing a specific combination of keys!
 
 **disclaimer** - might be laggy online
+"# piano" 
